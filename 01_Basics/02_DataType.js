@@ -33,4 +33,4 @@ const fun=function myfun() {
 
 console.log(typeof array);
 console.log(typeof obj1);
-console.log(typeof fun);
+console.log(typeof fun);    
